@@ -1,0 +1,211 @@
+                       _________________________
+
+                        LAB 11 REVIEW QUESTIONS
+                       _________________________
+
+
+- Name: (FILL THIS in)
+- NetID: (THE kauf0095 IN kauf0095@umn.edu)
+
+Answer the questions below according to the lab specification. Write
+your answers directly in this text file and submit it to complete Lab01.
+
+
+Review Problem 1: Critter Troubles
+==================================
+
+  Consider the `Critter' class included with the lab code and answer
+  questions about it.
+
+
+Part A
+~~~~~~
+
+  Examine the constructor as it stands now. Draw a memory diagram of the
+  following instance of the class (you do not need to include the
+  picture in your submission but may have to draw one on an exam).
+  ,----
+  | public void main(){
+  |   Critter hb = new Critter("Honey Badger",5.0);
+  |   ...
+  | }
+  `----
+  Does anything look wrong about the picture compared to how objects are
+  typically initialized?
+
+
+YOUR ANSWER HERE:
+-----------------
+
+
+Part B
+~~~~~~
+
+  In an interactive session, the following code is run which produces
+  somewhat unexpected results.
+  ,----
+  | > Critter hb = new Critter("Honey Badger",5.0);
+  | > hb.addToMenu("snakes")
+  | > hb.getEats()
+  | "null snakes"
+  `----
+  Explain why the word `null' appears in the result of the `getEats()'
+  method. Relate this to a problem in with the constructor about and
+  describe fix in the constructor
+
+
+YOUR ANSWER HERE:
+-----------------
+
+
+Part C
+~~~~~~
+
+  An interactive session shows the following strange result.
+  ,----
+  | > Critter ra = new Critter("Rabbit",1.0);
+  | > Critter fo = new Critter("Fox",3.0);
+  | > Critter hb = new Critter("Honey Badger",5.0);
+  | > Critter.encounter(fo, ra)
+  | Rabbit and Fox grab falafel together             // Fox should beat Rabbit
+  | > Critter.encounter(hb, ra)
+  | Rabbit and Honey Badger grab falafel together    // Honey Badger should beat Rabbit
+  | > Critter.encounter(hb, fo)
+  | Fox and Honey Badger grab falafel together       // Honey Badger should beat Fox
+  `----
+  The `encounter()' method appears to be broken. Identify a problem with
+  the constructor which is causing this problems later with
+  `encounter()'.  Describe how to fix it.
+
+
+YOUR ANSWER HERE:
+-----------------
+
+
+Part D
+~~~~~~
+
+  Examine the `encounter()' method. It makes use of private variables of
+  the `Critter' class like `kind' and `ferocity'. Compiling the
+  `Critter.java' file appears to work fine as in
+  ,----
+  | > javac Critter.java
+  | > ls Critter.class       // check for compiled class
+  | Critter.class            // it is present
+  `----
+
+  Compare to attempting to compile the separate class `CritCompare.java'
+  that has the identical method in it:
+  ,----
+  |  1  public class CritCompare{
+  |  2    public static void encounter(Critter a, Critter b){
+  |  3      if(a.ferocity > b.ferocity){
+  |  4        System.out.printf("%s would beat %s\n",
+  |  5                          a.kind,b.kind);
+  |  6      }
+  |  7      else if(a.ferocity < b.ferocity){
+  |  8        System.out.printf("%s would beat %s\n",
+  |  9                          b.kind,a.kind);
+  | 10      }
+  | 11      else{
+  | 12        System.out.printf("%s and %s grab falafel together\n",
+  | 13                          b.kind,a.kind);
+  | 14        
+  | 15      }
+  | 16    }
+  | 17  }
+  `----
+  This leads to lots of errors:
+  ,----
+  | > javac CritCompare.java
+  | CritCompare.java:3: error: ....
+  | ...
+  | 10 errors
+  `----
+
+  Explain why compiling `Critter.java' works but `CritCompare' fails and
+  the meaning of the `private' access modifier.
+
+
+YOUR ANSWER HERE:
+-----------------
+
+
+Review Problem 2: Portfolio Additions
+=====================================
+
+Part A
+~~~~~~
+
+  Draw a memory diagram of the following interactive session of using
+  the `Portfolio' class.
+
+  ,----
+  | > Portfolio p = new Portfolio("Barren", 3);
+  | > barren.deposit(200.00);
+  | > barren.addStock("MSFT",10.00,"Microsoft");
+  | > barren.addStock("AAPL",50.00,"Apple.");
+  | > barren.buyShares("MSFT", 4);
+  | > barren.buyShares("APPL", 2);
+  | > barren.buyShares("GOOGL", 3);
+  `----
+
+
+YOUR ANSWER HERE:
+-----------------
+
+  You may leave this answer blank but make sure to be able to draw a
+  picture of the above.
+
+
+Part B
+~~~~~~
+
+  Add a method to the `Portfolio' class with the following prototype.
+  ,----
+  | public class Portfolio{
+  |   
+  |   // Search the array of stocks for the given symbol and remove that
+  |   // stock from the array by sellig off all shares of it. If any
+  |   // shares exist, add the sale profit to the portfolio cash.  After
+  |   // selling off all shares, eliminate the stock from the array by
+  |   // shifting all remaining stocks back in the array and decreasing
+  |   // the size. Return true if a stock is removed. If no stock with the
+  |   // requested symbol exists, do not modify the portfolio and return
+  |   // false.
+  |   public boolean removeStock(String symbol){
+  |     // YOUR CODE HERE
+  |   }
+  `----
+
+
+YOUR ANSWER HERE:
+-----------------
+
+
+Part C
+~~~~~~
+
+  Most actual stock portfolios change in value because the price of
+  stocks is not fixed. Instead, stock prices fluctuate over time.  To
+  model this, consider the addition of the following method to the
+  `Portfolio' class.
+  ,----
+  | public class Portfolio{
+  |   
+  |   // Search the array of stocks for the given symbol and change its
+  |   // price to the given newPrice.  If a price is changed, return
+  |   // true. If the requested symbol is not present, return false.
+  |   public boolean updateStockPrice(String symbol, double newPrice){
+  |     // YOUR CODE HERE
+  |   }
+  `----
+  - Describe how one might implement this method in `Portfolio' perhaps
+    giving code to do it.
+  - You should encounter one major difficulty in your implementation of
+    the `updateStockPrice()'. Describe this and an associated change
+    that would be required in the `Stock' class.
+
+
+YOUR ANSWER HERE:
+-----------------

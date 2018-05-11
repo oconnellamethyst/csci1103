@@ -1,0 +1,18 @@
+public class OOOmeletMain{
+  public static void main(String args[]){
+    OOOmelet small = new OOOmelet(2,5,"ham");   // smallish OOOmelet
+    OOOmelet large = new OOOmelet(5,8,"bacon"); // largeish OOOmelet
+
+    small.addEgg();
+    small.cookFor(1.5);
+
+    int cals = large.getCalories();
+    
+    System.out.printf("Omelet has %d eggs\n",om.eggs);
+    System.out.printf("Omelet has %d oz cheese\n",om.cheese);
+    System.out.printf("Omelet cooked for %.1f minutes\n",om.cookedFor);
+    System.out.printf("Omelet has these extras: %s\n",om.extras);
+
+    System.out.println(om.toString());
+  }
+}

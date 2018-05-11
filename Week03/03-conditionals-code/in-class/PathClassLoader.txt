@@ -1,0 +1,492 @@
+20 Sep 2017 17:05:31 GMT: Log 'PathClassLoader.txt' opened: 20 Sep 2017 17:05:31 GMT with name /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class/PathClassLoader.txt
+20 Sep 2017 17:05:31 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/home/kauffman/Dropbox/bin/drjava.jar]'
+20 Sep 2017 17:05:32 GMT: PathClassLoader.findClass(edu) called
+20 Sep 2017 17:05:32 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:32 GMT: PathClassLoader.findClass(java.lang.edu) called
+20 Sep 2017 17:05:32 GMT: findResource(java/lang/edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:32 GMT: PathClassLoader.findClass(edu) called
+20 Sep 2017 17:05:32 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:32 GMT: PathClassLoader.findClass(edu) called
+20 Sep 2017 17:05:32 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:32 GMT: PathClassLoader.findClass(edu.rice) called
+20 Sep 2017 17:05:32 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:32 GMT: PathClassLoader.findClass(edu.rice) called
+20 Sep 2017 17:05:32 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:32 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 Sep 2017 17:05:32 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:32 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 Sep 2017 17:05:32 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:32 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 Sep 2017 17:05:32 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:32 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 Sep 2017 17:05:32 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:32 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 Sep 2017 17:05:32 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:32 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 Sep 2017 17:05:32 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:32 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 Sep 2017 17:05:32 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:32 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 Sep 2017 17:05:32 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:32 GMT: PathClassLoader.findClass(edu) called
+20 Sep 2017 17:05:32 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:32 GMT: PathClassLoader.findClass(java.lang.edu) called
+20 Sep 2017 17:05:32 GMT: findResource(java/lang/edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:32 GMT: PathClassLoader.findClass(edu) called
+20 Sep 2017 17:05:32 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:32 GMT: PathClassLoader.findClass(edu) called
+20 Sep 2017 17:05:32 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:32 GMT: PathClassLoader.findClass(edu) called
+20 Sep 2017 17:05:32 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:32 GMT: PathClassLoader.findClass(edu) called
+20 Sep 2017 17:05:32 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:32 GMT: PathClassLoader.findClass(edu) called
+20 Sep 2017 17:05:32 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:32 GMT: PathClassLoader.findClass(java.lang.edu) called
+20 Sep 2017 17:05:32 GMT: findResource(java/lang/edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:32 GMT: PathClassLoader.findClass(edu) called
+20 Sep 2017 17:05:32 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:32 GMT: PathClassLoader.findClass(edu.rice) called
+20 Sep 2017 17:05:32 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:32 GMT: PathClassLoader.findClass(edu.rice) called
+20 Sep 2017 17:05:32 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:32 GMT: PathClassLoader.findClass(edu.rice) called
+20 Sep 2017 17:05:32 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:32 GMT: PathClassLoader.findClass(edu.rice) called
+20 Sep 2017 17:05:32 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:32 GMT: PathClassLoader.findClass(edu.rice) called
+20 Sep 2017 17:05:32 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:32 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 Sep 2017 17:05:32 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:32 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 Sep 2017 17:05:32 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:32 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 Sep 2017 17:05:32 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:32 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 Sep 2017 17:05:32 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:32 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 Sep 2017 17:05:32 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:32 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 Sep 2017 17:05:32 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:32 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 Sep 2017 17:05:32 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:32 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 Sep 2017 17:05:32 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:32 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 Sep 2017 17:05:32 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:32 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 Sep 2017 17:05:32 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:32 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 Sep 2017 17:05:32 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:32 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 Sep 2017 17:05:32 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:32 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 Sep 2017 17:05:32 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:32 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 Sep 2017 17:05:32 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:32 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 Sep 2017 17:05:32 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:32 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 Sep 2017 17:05:32 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:32 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 Sep 2017 17:05:32 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:32 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 Sep 2017 17:05:32 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:32 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 Sep 2017 17:05:32 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:32 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 Sep 2017 17:05:32 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:32 GMT: PathClassLoader.findClass(Max3) called
+20 Sep 2017 17:05:32 GMT: findResource(Max3.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:32 GMT: PathClassLoader.findClass(TextIO) called
+20 Sep 2017 17:05:32 GMT: findResource(TextIO.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:41 GMT: PathClassLoader.findClass(edu) called
+20 Sep 2017 17:05:41 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:41 GMT: PathClassLoader.findClass(java.lang.edu) called
+20 Sep 2017 17:05:41 GMT: findResource(java/lang/edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:41 GMT: PathClassLoader.findClass(edu) called
+20 Sep 2017 17:05:41 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:41 GMT: PathClassLoader.findClass(edu) called
+20 Sep 2017 17:05:41 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:41 GMT: PathClassLoader.findClass(edu.rice) called
+20 Sep 2017 17:05:41 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:41 GMT: PathClassLoader.findClass(edu.rice) called
+20 Sep 2017 17:05:41 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:41 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 Sep 2017 17:05:41 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:41 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 Sep 2017 17:05:41 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:41 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 Sep 2017 17:05:41 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:41 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 Sep 2017 17:05:41 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:41 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 Sep 2017 17:05:41 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:41 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 Sep 2017 17:05:41 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:41 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 Sep 2017 17:05:41 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:41 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 Sep 2017 17:05:41 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:41 GMT: PathClassLoader.findClass(edu) called
+20 Sep 2017 17:05:41 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:41 GMT: PathClassLoader.findClass(java.lang.edu) called
+20 Sep 2017 17:05:41 GMT: findResource(java/lang/edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:41 GMT: PathClassLoader.findClass(edu) called
+20 Sep 2017 17:05:41 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:41 GMT: PathClassLoader.findClass(edu) called
+20 Sep 2017 17:05:41 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:41 GMT: PathClassLoader.findClass(edu) called
+20 Sep 2017 17:05:41 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:41 GMT: PathClassLoader.findClass(edu) called
+20 Sep 2017 17:05:41 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:41 GMT: PathClassLoader.findClass(edu) called
+20 Sep 2017 17:05:41 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:41 GMT: PathClassLoader.findClass(java.lang.edu) called
+20 Sep 2017 17:05:41 GMT: findResource(java/lang/edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:41 GMT: PathClassLoader.findClass(edu) called
+20 Sep 2017 17:05:41 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:41 GMT: PathClassLoader.findClass(edu.rice) called
+20 Sep 2017 17:05:41 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:41 GMT: PathClassLoader.findClass(edu.rice) called
+20 Sep 2017 17:05:41 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:41 GMT: PathClassLoader.findClass(edu.rice) called
+20 Sep 2017 17:05:41 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:41 GMT: PathClassLoader.findClass(edu.rice) called
+20 Sep 2017 17:05:41 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:41 GMT: PathClassLoader.findClass(edu.rice) called
+20 Sep 2017 17:05:41 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:41 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 Sep 2017 17:05:41 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:41 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 Sep 2017 17:05:41 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:41 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 Sep 2017 17:05:41 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:41 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 Sep 2017 17:05:41 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:41 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 Sep 2017 17:05:41 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:41 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 Sep 2017 17:05:41 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:41 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 Sep 2017 17:05:41 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:41 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 Sep 2017 17:05:41 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:41 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 Sep 2017 17:05:41 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:41 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 Sep 2017 17:05:41 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:41 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 Sep 2017 17:05:41 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:41 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 Sep 2017 17:05:41 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:41 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 Sep 2017 17:05:41 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:41 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 Sep 2017 17:05:41 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:41 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 Sep 2017 17:05:41 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:41 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 Sep 2017 17:05:41 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:41 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 Sep 2017 17:05:41 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:41 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 Sep 2017 17:05:41 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:41 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 Sep 2017 17:05:41 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:41 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 Sep 2017 17:05:41 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:48 GMT: PathClassLoader.findClass(edu) called
+20 Sep 2017 17:05:48 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:48 GMT: PathClassLoader.findClass(java.lang.edu) called
+20 Sep 2017 17:05:48 GMT: findResource(java/lang/edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:48 GMT: PathClassLoader.findClass(edu) called
+20 Sep 2017 17:05:48 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:48 GMT: PathClassLoader.findClass(edu) called
+20 Sep 2017 17:05:48 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:48 GMT: PathClassLoader.findClass(edu.rice) called
+20 Sep 2017 17:05:48 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:48 GMT: PathClassLoader.findClass(edu.rice) called
+20 Sep 2017 17:05:48 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:48 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 Sep 2017 17:05:48 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:48 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 Sep 2017 17:05:48 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:48 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 Sep 2017 17:05:48 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:48 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 Sep 2017 17:05:48 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:48 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 Sep 2017 17:05:48 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:48 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 Sep 2017 17:05:48 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:48 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 Sep 2017 17:05:48 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:48 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 Sep 2017 17:05:48 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:48 GMT: PathClassLoader.findClass(edu) called
+20 Sep 2017 17:05:48 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:48 GMT: PathClassLoader.findClass(java.lang.edu) called
+20 Sep 2017 17:05:48 GMT: findResource(java/lang/edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:48 GMT: PathClassLoader.findClass(edu) called
+20 Sep 2017 17:05:48 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:48 GMT: PathClassLoader.findClass(edu) called
+20 Sep 2017 17:05:48 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:48 GMT: PathClassLoader.findClass(edu) called
+20 Sep 2017 17:05:48 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:48 GMT: PathClassLoader.findClass(edu) called
+20 Sep 2017 17:05:48 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:48 GMT: PathClassLoader.findClass(edu) called
+20 Sep 2017 17:05:48 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:48 GMT: PathClassLoader.findClass(java.lang.edu) called
+20 Sep 2017 17:05:48 GMT: findResource(java/lang/edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:48 GMT: PathClassLoader.findClass(edu) called
+20 Sep 2017 17:05:48 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:48 GMT: PathClassLoader.findClass(edu.rice) called
+20 Sep 2017 17:05:48 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:48 GMT: PathClassLoader.findClass(edu.rice) called
+20 Sep 2017 17:05:48 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:48 GMT: PathClassLoader.findClass(edu.rice) called
+20 Sep 2017 17:05:48 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:48 GMT: PathClassLoader.findClass(edu.rice) called
+20 Sep 2017 17:05:48 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:48 GMT: PathClassLoader.findClass(edu.rice) called
+20 Sep 2017 17:05:48 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:48 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 Sep 2017 17:05:48 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:48 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 Sep 2017 17:05:48 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:48 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 Sep 2017 17:05:48 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:48 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 Sep 2017 17:05:48 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:48 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 Sep 2017 17:05:48 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:48 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 Sep 2017 17:05:48 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:48 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 Sep 2017 17:05:48 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:48 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 Sep 2017 17:05:48 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:48 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 Sep 2017 17:05:48 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:48 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 Sep 2017 17:05:48 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:48 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 Sep 2017 17:05:48 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:48 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 Sep 2017 17:05:48 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:48 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 Sep 2017 17:05:48 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:48 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 Sep 2017 17:05:48 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:48 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 Sep 2017 17:05:48 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:48 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 Sep 2017 17:05:48 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:48 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 Sep 2017 17:05:48 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:48 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 Sep 2017 17:05:48 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:48 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 Sep 2017 17:05:48 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:05:48 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 Sep 2017 17:05:48 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:06:41 GMT: Log 'PathClassLoader.txt' opened: 20 Sep 2017 17:06:41 GMT with name /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class/PathClassLoader.txt
+20 Sep 2017 17:06:41 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/home/kauffman/Dropbox/bin/drjava.jar]'
+20 Sep 2017 17:06:42 GMT: PathClassLoader.findClass(edu) called
+20 Sep 2017 17:06:42 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:06:42 GMT: PathClassLoader.findClass(java.lang.edu) called
+20 Sep 2017 17:06:42 GMT: findResource(java/lang/edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:06:42 GMT: PathClassLoader.findClass(edu) called
+20 Sep 2017 17:06:42 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:06:42 GMT: PathClassLoader.findClass(edu) called
+20 Sep 2017 17:06:42 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:06:42 GMT: PathClassLoader.findClass(edu.rice) called
+20 Sep 2017 17:06:42 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:06:42 GMT: PathClassLoader.findClass(edu.rice) called
+20 Sep 2017 17:06:42 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:06:42 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 Sep 2017 17:06:42 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:06:42 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 Sep 2017 17:06:42 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:06:42 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 Sep 2017 17:06:42 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:06:42 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 Sep 2017 17:06:42 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:06:42 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 Sep 2017 17:06:42 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:06:42 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 Sep 2017 17:06:42 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:06:42 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 Sep 2017 17:06:42 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:06:42 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 Sep 2017 17:06:42 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:06:42 GMT: PathClassLoader.findClass(edu) called
+20 Sep 2017 17:06:42 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:06:42 GMT: PathClassLoader.findClass(java.lang.edu) called
+20 Sep 2017 17:06:42 GMT: findResource(java/lang/edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:06:42 GMT: PathClassLoader.findClass(edu) called
+20 Sep 2017 17:06:42 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:06:42 GMT: PathClassLoader.findClass(edu) called
+20 Sep 2017 17:06:42 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:06:42 GMT: PathClassLoader.findClass(edu) called
+20 Sep 2017 17:06:42 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:06:42 GMT: PathClassLoader.findClass(edu) called
+20 Sep 2017 17:06:42 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:06:42 GMT: PathClassLoader.findClass(edu) called
+20 Sep 2017 17:06:42 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:06:42 GMT: PathClassLoader.findClass(java.lang.edu) called
+20 Sep 2017 17:06:42 GMT: findResource(java/lang/edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:06:42 GMT: PathClassLoader.findClass(edu) called
+20 Sep 2017 17:06:42 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:06:42 GMT: PathClassLoader.findClass(edu.rice) called
+20 Sep 2017 17:06:42 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:06:42 GMT: PathClassLoader.findClass(edu.rice) called
+20 Sep 2017 17:06:42 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:06:42 GMT: PathClassLoader.findClass(edu.rice) called
+20 Sep 2017 17:06:42 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:06:42 GMT: PathClassLoader.findClass(edu.rice) called
+20 Sep 2017 17:06:42 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:06:42 GMT: PathClassLoader.findClass(edu.rice) called
+20 Sep 2017 17:06:42 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:06:42 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 Sep 2017 17:06:42 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:06:42 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 Sep 2017 17:06:42 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:06:42 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 Sep 2017 17:06:42 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:06:42 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 Sep 2017 17:06:42 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:06:42 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 Sep 2017 17:06:42 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:06:42 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 Sep 2017 17:06:42 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:06:42 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 Sep 2017 17:06:42 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:06:42 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 Sep 2017 17:06:42 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:06:42 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 Sep 2017 17:06:42 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:06:42 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 Sep 2017 17:06:42 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:06:42 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 Sep 2017 17:06:42 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:06:42 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 Sep 2017 17:06:42 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:06:42 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 Sep 2017 17:06:42 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:06:42 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 Sep 2017 17:06:42 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:06:42 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 Sep 2017 17:06:42 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:06:42 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 Sep 2017 17:06:42 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:06:42 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 Sep 2017 17:06:42 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:06:42 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 Sep 2017 17:06:42 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:06:42 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 Sep 2017 17:06:42 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:06:42 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 Sep 2017 17:06:42 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:06:42 GMT: PathClassLoader.findClass(Max3) called
+20 Sep 2017 17:06:42 GMT: findResource(Max3.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+20 Sep 2017 17:06:42 GMT: PathClassLoader.findClass(TextIO) called
+20 Sep 2017 17:06:42 GMT: findResource(TextIO.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+21 Sep 2017 2:05:51 GMT: PathClassLoader.findClass(edu) called
+21 Sep 2017 2:05:51 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+21 Sep 2017 2:05:51 GMT: PathClassLoader.findClass(java.lang.edu) called
+21 Sep 2017 2:05:51 GMT: findResource(java/lang/edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+21 Sep 2017 2:05:51 GMT: PathClassLoader.findClass(edu) called
+21 Sep 2017 2:05:51 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+21 Sep 2017 2:05:51 GMT: PathClassLoader.findClass(edu) called
+21 Sep 2017 2:05:51 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+21 Sep 2017 2:05:51 GMT: PathClassLoader.findClass(edu.rice) called
+21 Sep 2017 2:05:51 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+21 Sep 2017 2:05:51 GMT: PathClassLoader.findClass(edu.rice) called
+21 Sep 2017 2:05:51 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+21 Sep 2017 2:05:51 GMT: PathClassLoader.findClass(edu.rice.cs) called
+21 Sep 2017 2:05:51 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+21 Sep 2017 2:05:51 GMT: PathClassLoader.findClass(edu.rice.cs) called
+21 Sep 2017 2:05:51 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+21 Sep 2017 2:05:51 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+21 Sep 2017 2:05:51 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+21 Sep 2017 2:05:51 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+21 Sep 2017 2:05:51 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+21 Sep 2017 2:05:51 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+21 Sep 2017 2:05:51 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+21 Sep 2017 2:05:51 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+21 Sep 2017 2:05:51 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+21 Sep 2017 2:05:51 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+21 Sep 2017 2:05:51 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+21 Sep 2017 2:05:51 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+21 Sep 2017 2:05:51 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+21 Sep 2017 2:05:51 GMT: PathClassLoader.findClass(edu) called
+21 Sep 2017 2:05:51 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+21 Sep 2017 2:05:51 GMT: PathClassLoader.findClass(java.lang.edu) called
+21 Sep 2017 2:05:51 GMT: findResource(java/lang/edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+21 Sep 2017 2:05:51 GMT: PathClassLoader.findClass(edu) called
+21 Sep 2017 2:05:51 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+21 Sep 2017 2:05:51 GMT: PathClassLoader.findClass(edu) called
+21 Sep 2017 2:05:51 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+21 Sep 2017 2:05:51 GMT: PathClassLoader.findClass(edu) called
+21 Sep 2017 2:05:51 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+21 Sep 2017 2:05:51 GMT: PathClassLoader.findClass(edu) called
+21 Sep 2017 2:05:51 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+21 Sep 2017 2:05:51 GMT: PathClassLoader.findClass(edu) called
+21 Sep 2017 2:05:51 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+21 Sep 2017 2:05:51 GMT: PathClassLoader.findClass(java.lang.edu) called
+21 Sep 2017 2:05:51 GMT: findResource(java/lang/edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+21 Sep 2017 2:05:51 GMT: PathClassLoader.findClass(edu) called
+21 Sep 2017 2:05:51 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+21 Sep 2017 2:05:51 GMT: PathClassLoader.findClass(edu.rice) called
+21 Sep 2017 2:05:51 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+21 Sep 2017 2:05:51 GMT: PathClassLoader.findClass(edu.rice) called
+21 Sep 2017 2:05:51 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+21 Sep 2017 2:05:51 GMT: PathClassLoader.findClass(edu.rice) called
+21 Sep 2017 2:05:51 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+21 Sep 2017 2:05:51 GMT: PathClassLoader.findClass(edu.rice) called
+21 Sep 2017 2:05:51 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+21 Sep 2017 2:05:51 GMT: PathClassLoader.findClass(edu.rice) called
+21 Sep 2017 2:05:51 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+21 Sep 2017 2:05:51 GMT: PathClassLoader.findClass(edu.rice.cs) called
+21 Sep 2017 2:05:51 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+21 Sep 2017 2:05:51 GMT: PathClassLoader.findClass(edu.rice.cs) called
+21 Sep 2017 2:05:51 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+21 Sep 2017 2:05:51 GMT: PathClassLoader.findClass(edu.rice.cs) called
+21 Sep 2017 2:05:51 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+21 Sep 2017 2:05:51 GMT: PathClassLoader.findClass(edu.rice.cs) called
+21 Sep 2017 2:05:51 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+21 Sep 2017 2:05:51 GMT: PathClassLoader.findClass(edu.rice.cs) called
+21 Sep 2017 2:05:51 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+21 Sep 2017 2:05:51 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+21 Sep 2017 2:05:51 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+21 Sep 2017 2:05:51 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+21 Sep 2017 2:05:51 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+21 Sep 2017 2:05:51 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+21 Sep 2017 2:05:51 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+21 Sep 2017 2:05:51 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+21 Sep 2017 2:05:51 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+21 Sep 2017 2:05:51 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+21 Sep 2017 2:05:51 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+21 Sep 2017 2:05:51 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+21 Sep 2017 2:05:51 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+21 Sep 2017 2:05:51 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+21 Sep 2017 2:05:51 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+21 Sep 2017 2:05:51 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+21 Sep 2017 2:05:51 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+21 Sep 2017 2:05:51 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+21 Sep 2017 2:05:51 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+21 Sep 2017 2:05:51 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+21 Sep 2017 2:05:51 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+21 Sep 2017 2:05:51 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+21 Sep 2017 2:05:51 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+21 Sep 2017 2:05:51 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+21 Sep 2017 2:05:51 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+21 Sep 2017 2:05:51 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+21 Sep 2017 2:05:51 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+21 Sep 2017 2:05:51 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+21 Sep 2017 2:05:51 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]
+21 Sep 2017 2:05:51 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+21 Sep 2017 2:05:51 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/03-conditionals-code/in-class, /home/kauffman/Dropbox/bin/drjava.jar]

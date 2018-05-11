@@ -1,0 +1,302 @@
+4 Oct 2017 16:54:03 GMT: Log 'PathClassLoader.txt' opened: 4 Oct 2017 16:54:03 GMT with name /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code/PathClassLoader.txt
+4 Oct 2017 16:54:03 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/home/kauffman/Dropbox/bin/drjava.jar]'
+4 Oct 2017 16:54:04 GMT: PathClassLoader.findClass(edu) called
+4 Oct 2017 16:54:04 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:54:04 GMT: PathClassLoader.findClass(java.lang.edu) called
+4 Oct 2017 16:54:04 GMT: findResource(java/lang/edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:54:04 GMT: PathClassLoader.findClass(edu) called
+4 Oct 2017 16:54:04 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:54:04 GMT: PathClassLoader.findClass(edu) called
+4 Oct 2017 16:54:04 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:54:04 GMT: PathClassLoader.findClass(edu.rice) called
+4 Oct 2017 16:54:04 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:54:04 GMT: PathClassLoader.findClass(edu.rice) called
+4 Oct 2017 16:54:04 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:54:04 GMT: PathClassLoader.findClass(edu.rice.cs) called
+4 Oct 2017 16:54:04 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:54:04 GMT: PathClassLoader.findClass(edu.rice.cs) called
+4 Oct 2017 16:54:04 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:54:04 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+4 Oct 2017 16:54:04 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:54:04 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+4 Oct 2017 16:54:04 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:54:04 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+4 Oct 2017 16:54:04 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:54:04 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+4 Oct 2017 16:54:04 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:54:04 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+4 Oct 2017 16:54:04 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:54:04 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+4 Oct 2017 16:54:04 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:54:04 GMT: PathClassLoader.findClass(edu) called
+4 Oct 2017 16:54:04 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:54:04 GMT: PathClassLoader.findClass(java.lang.edu) called
+4 Oct 2017 16:54:04 GMT: findResource(java/lang/edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:54:04 GMT: PathClassLoader.findClass(edu) called
+4 Oct 2017 16:54:04 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:54:04 GMT: PathClassLoader.findClass(edu) called
+4 Oct 2017 16:54:04 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:54:04 GMT: PathClassLoader.findClass(edu) called
+4 Oct 2017 16:54:04 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:54:04 GMT: PathClassLoader.findClass(edu) called
+4 Oct 2017 16:54:04 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:54:04 GMT: PathClassLoader.findClass(edu) called
+4 Oct 2017 16:54:04 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:54:04 GMT: PathClassLoader.findClass(java.lang.edu) called
+4 Oct 2017 16:54:04 GMT: findResource(java/lang/edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:54:04 GMT: PathClassLoader.findClass(edu) called
+4 Oct 2017 16:54:04 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:54:04 GMT: PathClassLoader.findClass(edu.rice) called
+4 Oct 2017 16:54:04 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:54:04 GMT: PathClassLoader.findClass(edu.rice) called
+4 Oct 2017 16:54:04 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:54:04 GMT: PathClassLoader.findClass(edu.rice) called
+4 Oct 2017 16:54:04 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:54:04 GMT: PathClassLoader.findClass(edu.rice) called
+4 Oct 2017 16:54:04 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:54:04 GMT: PathClassLoader.findClass(edu.rice) called
+4 Oct 2017 16:54:04 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:54:04 GMT: PathClassLoader.findClass(edu.rice.cs) called
+4 Oct 2017 16:54:04 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:54:04 GMT: PathClassLoader.findClass(edu.rice.cs) called
+4 Oct 2017 16:54:04 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:54:04 GMT: PathClassLoader.findClass(edu.rice.cs) called
+4 Oct 2017 16:54:04 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:54:04 GMT: PathClassLoader.findClass(edu.rice.cs) called
+4 Oct 2017 16:54:04 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:54:04 GMT: PathClassLoader.findClass(edu.rice.cs) called
+4 Oct 2017 16:54:04 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:54:04 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+4 Oct 2017 16:54:04 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:54:04 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+4 Oct 2017 16:54:04 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:54:04 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+4 Oct 2017 16:54:04 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:54:04 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+4 Oct 2017 16:54:04 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:54:04 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+4 Oct 2017 16:54:04 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:54:04 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+4 Oct 2017 16:54:04 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:54:04 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+4 Oct 2017 16:54:04 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:54:04 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+4 Oct 2017 16:54:04 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:54:04 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+4 Oct 2017 16:54:04 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:54:04 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+4 Oct 2017 16:54:04 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:54:04 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+4 Oct 2017 16:54:04 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:54:04 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+4 Oct 2017 16:54:04 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:54:04 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+4 Oct 2017 16:54:04 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:54:04 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+4 Oct 2017 16:54:04 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:54:04 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+4 Oct 2017 16:54:04 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:54:04 GMT: PathClassLoader.findClass(ArrayOOB) called
+4 Oct 2017 16:54:04 GMT: findResource(ArrayOOB.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:55:36 GMT: Log 'PathClassLoader.txt' opened: 4 Oct 2017 16:55:36 GMT with name /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code/PathClassLoader.txt
+4 Oct 2017 16:55:36 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/home/kauffman/Dropbox/bin/drjava.jar]'
+4 Oct 2017 16:55:37 GMT: PathClassLoader.findClass(edu) called
+4 Oct 2017 16:55:37 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:55:37 GMT: PathClassLoader.findClass(java.lang.edu) called
+4 Oct 2017 16:55:37 GMT: findResource(java/lang/edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:55:37 GMT: PathClassLoader.findClass(edu) called
+4 Oct 2017 16:55:37 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:55:37 GMT: PathClassLoader.findClass(edu) called
+4 Oct 2017 16:55:37 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:55:37 GMT: PathClassLoader.findClass(edu.rice) called
+4 Oct 2017 16:55:37 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:55:37 GMT: PathClassLoader.findClass(edu.rice) called
+4 Oct 2017 16:55:37 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:55:37 GMT: PathClassLoader.findClass(edu.rice.cs) called
+4 Oct 2017 16:55:37 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:55:37 GMT: PathClassLoader.findClass(edu.rice.cs) called
+4 Oct 2017 16:55:37 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:55:37 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+4 Oct 2017 16:55:37 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:55:37 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+4 Oct 2017 16:55:37 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:55:37 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+4 Oct 2017 16:55:37 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:55:37 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+4 Oct 2017 16:55:37 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:55:37 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+4 Oct 2017 16:55:37 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:55:37 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+4 Oct 2017 16:55:37 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:55:37 GMT: PathClassLoader.findClass(edu) called
+4 Oct 2017 16:55:37 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:55:37 GMT: PathClassLoader.findClass(java.lang.edu) called
+4 Oct 2017 16:55:37 GMT: findResource(java/lang/edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:55:37 GMT: PathClassLoader.findClass(edu) called
+4 Oct 2017 16:55:37 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:55:37 GMT: PathClassLoader.findClass(edu) called
+4 Oct 2017 16:55:37 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:55:37 GMT: PathClassLoader.findClass(edu) called
+4 Oct 2017 16:55:37 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:55:37 GMT: PathClassLoader.findClass(edu) called
+4 Oct 2017 16:55:37 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:55:37 GMT: PathClassLoader.findClass(edu) called
+4 Oct 2017 16:55:37 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:55:37 GMT: PathClassLoader.findClass(java.lang.edu) called
+4 Oct 2017 16:55:37 GMT: findResource(java/lang/edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:55:37 GMT: PathClassLoader.findClass(edu) called
+4 Oct 2017 16:55:37 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:55:37 GMT: PathClassLoader.findClass(edu.rice) called
+4 Oct 2017 16:55:37 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:55:37 GMT: PathClassLoader.findClass(edu.rice) called
+4 Oct 2017 16:55:37 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:55:37 GMT: PathClassLoader.findClass(edu.rice) called
+4 Oct 2017 16:55:37 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:55:37 GMT: PathClassLoader.findClass(edu.rice) called
+4 Oct 2017 16:55:37 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:55:37 GMT: PathClassLoader.findClass(edu.rice) called
+4 Oct 2017 16:55:37 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:55:37 GMT: PathClassLoader.findClass(edu.rice.cs) called
+4 Oct 2017 16:55:37 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:55:37 GMT: PathClassLoader.findClass(edu.rice.cs) called
+4 Oct 2017 16:55:37 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:55:37 GMT: PathClassLoader.findClass(edu.rice.cs) called
+4 Oct 2017 16:55:37 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:55:37 GMT: PathClassLoader.findClass(edu.rice.cs) called
+4 Oct 2017 16:55:37 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:55:37 GMT: PathClassLoader.findClass(edu.rice.cs) called
+4 Oct 2017 16:55:37 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:55:37 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+4 Oct 2017 16:55:37 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:55:37 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+4 Oct 2017 16:55:37 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:55:37 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+4 Oct 2017 16:55:37 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:55:37 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+4 Oct 2017 16:55:37 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:55:37 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+4 Oct 2017 16:55:37 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:55:37 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+4 Oct 2017 16:55:37 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:55:37 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+4 Oct 2017 16:55:37 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:55:37 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+4 Oct 2017 16:55:37 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:55:37 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+4 Oct 2017 16:55:37 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:55:37 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+4 Oct 2017 16:55:37 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:55:37 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+4 Oct 2017 16:55:37 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:55:37 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+4 Oct 2017 16:55:37 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:55:37 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+4 Oct 2017 16:55:37 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:55:37 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+4 Oct 2017 16:55:37 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:55:37 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+4 Oct 2017 16:55:37 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:55:37 GMT: PathClassLoader.findClass(ArrayOOB) called
+4 Oct 2017 16:55:37 GMT: findResource(ArrayOOB.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:55:57 GMT: Log 'PathClassLoader.txt' opened: 4 Oct 2017 16:55:57 GMT with name /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code/PathClassLoader.txt
+4 Oct 2017 16:55:57 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/home/kauffman/Dropbox/bin/drjava.jar]'
+4 Oct 2017 16:57:35 GMT: Log 'PathClassLoader.txt' opened: 4 Oct 2017 16:57:35 GMT with name /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code/PathClassLoader.txt
+4 Oct 2017 16:57:35 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/home/kauffman/Dropbox/bin/drjava.jar]'
+4 Oct 2017 16:57:36 GMT: PathClassLoader.findClass(edu) called
+4 Oct 2017 16:57:36 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:57:36 GMT: PathClassLoader.findClass(java.lang.edu) called
+4 Oct 2017 16:57:36 GMT: findResource(java/lang/edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:57:36 GMT: PathClassLoader.findClass(edu) called
+4 Oct 2017 16:57:36 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:57:36 GMT: PathClassLoader.findClass(edu) called
+4 Oct 2017 16:57:36 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:57:36 GMT: PathClassLoader.findClass(edu.rice) called
+4 Oct 2017 16:57:36 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:57:36 GMT: PathClassLoader.findClass(edu.rice) called
+4 Oct 2017 16:57:36 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:57:36 GMT: PathClassLoader.findClass(edu.rice.cs) called
+4 Oct 2017 16:57:36 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:57:36 GMT: PathClassLoader.findClass(edu.rice.cs) called
+4 Oct 2017 16:57:36 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:57:36 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+4 Oct 2017 16:57:36 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:57:36 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+4 Oct 2017 16:57:36 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:57:36 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+4 Oct 2017 16:57:36 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:57:36 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+4 Oct 2017 16:57:36 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:57:36 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+4 Oct 2017 16:57:36 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:57:36 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+4 Oct 2017 16:57:36 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:57:36 GMT: PathClassLoader.findClass(edu) called
+4 Oct 2017 16:57:36 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:57:36 GMT: PathClassLoader.findClass(java.lang.edu) called
+4 Oct 2017 16:57:36 GMT: findResource(java/lang/edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:57:36 GMT: PathClassLoader.findClass(edu) called
+4 Oct 2017 16:57:36 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:57:36 GMT: PathClassLoader.findClass(edu) called
+4 Oct 2017 16:57:36 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:57:36 GMT: PathClassLoader.findClass(edu) called
+4 Oct 2017 16:57:36 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:57:36 GMT: PathClassLoader.findClass(edu) called
+4 Oct 2017 16:57:36 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:57:36 GMT: PathClassLoader.findClass(edu) called
+4 Oct 2017 16:57:36 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:57:36 GMT: PathClassLoader.findClass(java.lang.edu) called
+4 Oct 2017 16:57:36 GMT: findResource(java/lang/edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:57:36 GMT: PathClassLoader.findClass(edu) called
+4 Oct 2017 16:57:36 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:57:36 GMT: PathClassLoader.findClass(edu.rice) called
+4 Oct 2017 16:57:36 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:57:36 GMT: PathClassLoader.findClass(edu.rice) called
+4 Oct 2017 16:57:36 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:57:36 GMT: PathClassLoader.findClass(edu.rice) called
+4 Oct 2017 16:57:36 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:57:36 GMT: PathClassLoader.findClass(edu.rice) called
+4 Oct 2017 16:57:36 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:57:36 GMT: PathClassLoader.findClass(edu.rice) called
+4 Oct 2017 16:57:36 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:57:36 GMT: PathClassLoader.findClass(edu.rice.cs) called
+4 Oct 2017 16:57:36 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:57:36 GMT: PathClassLoader.findClass(edu.rice.cs) called
+4 Oct 2017 16:57:36 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:57:36 GMT: PathClassLoader.findClass(edu.rice.cs) called
+4 Oct 2017 16:57:36 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:57:36 GMT: PathClassLoader.findClass(edu.rice.cs) called
+4 Oct 2017 16:57:36 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:57:36 GMT: PathClassLoader.findClass(edu.rice.cs) called
+4 Oct 2017 16:57:36 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:57:36 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+4 Oct 2017 16:57:36 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:57:36 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+4 Oct 2017 16:57:36 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:57:36 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+4 Oct 2017 16:57:36 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:57:36 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+4 Oct 2017 16:57:36 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:57:36 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+4 Oct 2017 16:57:36 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:57:36 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+4 Oct 2017 16:57:36 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:57:36 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+4 Oct 2017 16:57:36 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:57:36 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+4 Oct 2017 16:57:36 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:57:36 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+4 Oct 2017 16:57:36 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:57:36 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+4 Oct 2017 16:57:36 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:57:36 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+4 Oct 2017 16:57:36 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:57:36 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+4 Oct 2017 16:57:36 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:57:36 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+4 Oct 2017 16:57:36 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:57:36 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+4 Oct 2017 16:57:36 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:57:36 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+4 Oct 2017 16:57:36 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]
+4 Oct 2017 16:57:36 GMT: PathClassLoader.findClass(ArrayNPE) called
+4 Oct 2017 16:57:36 GMT: findResource(ArrayNPE.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/05-arrays-strings-code, /home/kauffman/Dropbox/bin/drjava.jar]

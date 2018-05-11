@@ -1,0 +1,31 @@
+ 1 public class SampleMethods{
+ 2   
+ 3   public static boolean checkLength(String word){
+ 4     if(word.length() < 10){
+ 5       return true;
+ 6     }
+ 7     else{
+ 8       return false;
+ 9     }
+10   }
+11 
+12   public static boolean inRange(double z){
+13     return 25.5 <= z && z < 65.0;
+14   }
+15 
+16   public static boolean doChecks(String name, double x){
+17     boolean nameCheck = checkLength(name);
+18     boolean xCheck = inRange(x);
+19     return nameCheck || xCheck;
+20   }
+21 
+22   public static void main(String args[]){
+23     String candidateA = "Morty";
+24     double iqA = 47.3;
+25     boolean validA = doChecks(candidateA,iqA);
+26 
+27     String candidateB = "Jerry Smith";
+28     double iqB = 27.8;
+29     boolean validB = doChecks(candidateA,iqA);
+30   }
+31 }

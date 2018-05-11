@@ -1,0 +1,17 @@
+// Find the max of 5 numbers given by
+// user using a loop
+// 
+// This program has a scope problem
+public class ScopeProblem{
+  public static void main(String args[]){
+    System.out.println("Enter 5 numbers:");
+    for(int i=0; i<5; i++){
+      int max = 0;
+      int value = TextIO.getInt();
+      if( value > max ){
+        max = value;
+      }
+    }
+    System.out.printf("max is %d\n",max);
+  }
+}

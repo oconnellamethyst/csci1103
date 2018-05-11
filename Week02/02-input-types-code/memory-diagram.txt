@@ -1,0 +1,9 @@
+|                       | #box  | contents |
+|-----------------------+-------+----------|
+| double x = 1.23;      | #1024 |     1.23 |
+| double y = 4.56;      | #1032 |     4.56 |
+| int myInt = 15;       | #1040 |       15 |
+| boolean bool = false; | #1044 |    false |
+| double z = 4.56;      | #1046 |     4.56 |
+| boolean bool2 = true; | #1054 |     true |
+|                       | #1056 |       ?? |

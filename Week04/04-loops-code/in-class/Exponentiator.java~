@@ -1,0 +1,9 @@
+public class Exponentiator{
+  public static void main(String args[]){
+    System.out.println("Enter base (int):");
+    int base = TextIO.getInt();
+    System.out.println("Enter power (int):");
+    int power = TextIO.getInt();
+
+  }
+}

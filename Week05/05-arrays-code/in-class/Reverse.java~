@@ -1,0 +1,17 @@
+public class Reverse{
+  public static void main(Strig args[]){
+    Sytem.out.println("Enter seq len:");
+    int inputSize = TextIO.getInt();
+    int sequence[] = new int[inputSize];
+    System.out.println("Enter sequence:");
+    for(int i=0; i<inputSize; i++){
+      sequence[i] = TextIO.getInt();
+    }
+    System.out.println("Sequence in reverse:");
+    for(i=sequence.length-1; i>0; i--){
+      System.out.printf("%d ",sequence[i]);
+    }
+    System.out.println();
+  }
+}
+      

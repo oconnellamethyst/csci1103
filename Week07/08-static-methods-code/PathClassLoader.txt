@@ -1,0 +1,272 @@
+23 Oct 2017 13:40:12 GMT: Log 'PathClassLoader.txt' opened: 23 Oct 2017 13:40:12 GMT with name /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code/PathClassLoader.txt
+23 Oct 2017 13:40:12 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/home/kauffman/Dropbox/bin/drjava.jar]'
+23 Oct 2017 13:40:22 GMT: PathClassLoader.findClass(edu) called
+23 Oct 2017 13:40:22 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:22 GMT: PathClassLoader.findClass(java.lang.edu) called
+23 Oct 2017 13:40:22 GMT: findResource(java/lang/edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:22 GMT: PathClassLoader.findClass(edu) called
+23 Oct 2017 13:40:22 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:22 GMT: PathClassLoader.findClass(edu) called
+23 Oct 2017 13:40:22 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:22 GMT: PathClassLoader.findClass(edu.rice) called
+23 Oct 2017 13:40:22 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:22 GMT: PathClassLoader.findClass(edu.rice) called
+23 Oct 2017 13:40:22 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:22 GMT: PathClassLoader.findClass(edu.rice.cs) called
+23 Oct 2017 13:40:22 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:22 GMT: PathClassLoader.findClass(edu.rice.cs) called
+23 Oct 2017 13:40:22 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:22 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+23 Oct 2017 13:40:22 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:22 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+23 Oct 2017 13:40:22 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:22 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+23 Oct 2017 13:40:22 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:22 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+23 Oct 2017 13:40:22 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:22 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+23 Oct 2017 13:40:22 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:22 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+23 Oct 2017 13:40:22 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:22 GMT: PathClassLoader.findClass(edu) called
+23 Oct 2017 13:40:22 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:22 GMT: PathClassLoader.findClass(java.lang.edu) called
+23 Oct 2017 13:40:22 GMT: findResource(java/lang/edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:22 GMT: PathClassLoader.findClass(edu) called
+23 Oct 2017 13:40:22 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:22 GMT: PathClassLoader.findClass(edu) called
+23 Oct 2017 13:40:22 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:22 GMT: PathClassLoader.findClass(edu) called
+23 Oct 2017 13:40:22 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:22 GMT: PathClassLoader.findClass(edu) called
+23 Oct 2017 13:40:22 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:22 GMT: PathClassLoader.findClass(edu) called
+23 Oct 2017 13:40:22 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:22 GMT: PathClassLoader.findClass(java.lang.edu) called
+23 Oct 2017 13:40:22 GMT: findResource(java/lang/edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:22 GMT: PathClassLoader.findClass(edu) called
+23 Oct 2017 13:40:22 GMT: findResource(edu.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:22 GMT: PathClassLoader.findClass(edu.rice) called
+23 Oct 2017 13:40:22 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:22 GMT: PathClassLoader.findClass(edu.rice) called
+23 Oct 2017 13:40:22 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:22 GMT: PathClassLoader.findClass(edu.rice) called
+23 Oct 2017 13:40:22 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:22 GMT: PathClassLoader.findClass(edu.rice) called
+23 Oct 2017 13:40:22 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:22 GMT: PathClassLoader.findClass(edu.rice) called
+23 Oct 2017 13:40:22 GMT: findResource(edu/rice.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:22 GMT: PathClassLoader.findClass(edu.rice.cs) called
+23 Oct 2017 13:40:22 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:22 GMT: PathClassLoader.findClass(edu.rice.cs) called
+23 Oct 2017 13:40:22 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:22 GMT: PathClassLoader.findClass(edu.rice.cs) called
+23 Oct 2017 13:40:22 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:22 GMT: PathClassLoader.findClass(edu.rice.cs) called
+23 Oct 2017 13:40:22 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:22 GMT: PathClassLoader.findClass(edu.rice.cs) called
+23 Oct 2017 13:40:22 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:22 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+23 Oct 2017 13:40:22 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:22 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+23 Oct 2017 13:40:22 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:22 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+23 Oct 2017 13:40:22 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:22 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+23 Oct 2017 13:40:22 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:22 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+23 Oct 2017 13:40:22 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:22 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+23 Oct 2017 13:40:22 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:22 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+23 Oct 2017 13:40:22 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:22 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+23 Oct 2017 13:40:22 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:22 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+23 Oct 2017 13:40:22 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:22 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+23 Oct 2017 13:40:22 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:22 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+23 Oct 2017 13:40:22 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:22 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+23 Oct 2017 13:40:22 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:22 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+23 Oct 2017 13:40:22 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:22 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+23 Oct 2017 13:40:22 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:22 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+23 Oct 2017 13:40:22 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:22 GMT: PathClassLoader.findClass(DeepStack) called
+23 Oct 2017 13:40:22 GMT: findResource(DeepStack.class) called; _path is [, , /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:30 GMT: Log 'PathClassLoader.txt' opened: 23 Oct 2017 13:40:30 GMT with name /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code/PathClassLoader.txt
+23 Oct 2017 13:40:30 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/home/kauffman/Dropbox/bin/drjava.jar]'
+23 Oct 2017 13:40:30 GMT: PathClassLoader.findClass(edu) called
+23 Oct 2017 13:40:30 GMT: findResource(edu.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:30 GMT: PathClassLoader.findClass(java.lang.edu) called
+23 Oct 2017 13:40:30 GMT: findResource(java/lang/edu.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:30 GMT: PathClassLoader.findClass(edu) called
+23 Oct 2017 13:40:30 GMT: findResource(edu.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:30 GMT: PathClassLoader.findClass(edu) called
+23 Oct 2017 13:40:30 GMT: findResource(edu.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:30 GMT: PathClassLoader.findClass(edu.rice) called
+23 Oct 2017 13:40:30 GMT: findResource(edu/rice.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:30 GMT: PathClassLoader.findClass(edu.rice) called
+23 Oct 2017 13:40:30 GMT: findResource(edu/rice.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:30 GMT: PathClassLoader.findClass(edu.rice.cs) called
+23 Oct 2017 13:40:30 GMT: findResource(edu/rice/cs.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:30 GMT: PathClassLoader.findClass(edu.rice.cs) called
+23 Oct 2017 13:40:30 GMT: findResource(edu/rice/cs.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:30 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+23 Oct 2017 13:40:30 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:30 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+23 Oct 2017 13:40:30 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:30 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+23 Oct 2017 13:40:30 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:30 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+23 Oct 2017 13:40:30 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:30 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+23 Oct 2017 13:40:30 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:30 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+23 Oct 2017 13:40:30 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:30 GMT: PathClassLoader.findClass(edu) called
+23 Oct 2017 13:40:30 GMT: findResource(edu.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:30 GMT: PathClassLoader.findClass(java.lang.edu) called
+23 Oct 2017 13:40:30 GMT: findResource(java/lang/edu.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:30 GMT: PathClassLoader.findClass(edu) called
+23 Oct 2017 13:40:30 GMT: findResource(edu.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:30 GMT: PathClassLoader.findClass(edu) called
+23 Oct 2017 13:40:30 GMT: findResource(edu.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:30 GMT: PathClassLoader.findClass(edu) called
+23 Oct 2017 13:40:30 GMT: findResource(edu.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:30 GMT: PathClassLoader.findClass(edu) called
+23 Oct 2017 13:40:30 GMT: findResource(edu.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:30 GMT: PathClassLoader.findClass(edu) called
+23 Oct 2017 13:40:30 GMT: findResource(edu.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:30 GMT: PathClassLoader.findClass(java.lang.edu) called
+23 Oct 2017 13:40:30 GMT: findResource(java/lang/edu.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:30 GMT: PathClassLoader.findClass(edu) called
+23 Oct 2017 13:40:30 GMT: findResource(edu.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:30 GMT: PathClassLoader.findClass(edu.rice) called
+23 Oct 2017 13:40:30 GMT: findResource(edu/rice.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:30 GMT: PathClassLoader.findClass(edu.rice) called
+23 Oct 2017 13:40:30 GMT: findResource(edu/rice.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:30 GMT: PathClassLoader.findClass(edu.rice) called
+23 Oct 2017 13:40:30 GMT: findResource(edu/rice.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:30 GMT: PathClassLoader.findClass(edu.rice) called
+23 Oct 2017 13:40:30 GMT: findResource(edu/rice.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:30 GMT: PathClassLoader.findClass(edu.rice) called
+23 Oct 2017 13:40:30 GMT: findResource(edu/rice.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:30 GMT: PathClassLoader.findClass(edu.rice.cs) called
+23 Oct 2017 13:40:30 GMT: findResource(edu/rice/cs.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:30 GMT: PathClassLoader.findClass(edu.rice.cs) called
+23 Oct 2017 13:40:30 GMT: findResource(edu/rice/cs.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:30 GMT: PathClassLoader.findClass(edu.rice.cs) called
+23 Oct 2017 13:40:30 GMT: findResource(edu/rice/cs.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:30 GMT: PathClassLoader.findClass(edu.rice.cs) called
+23 Oct 2017 13:40:30 GMT: findResource(edu/rice/cs.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:30 GMT: PathClassLoader.findClass(edu.rice.cs) called
+23 Oct 2017 13:40:30 GMT: findResource(edu/rice/cs.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:30 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+23 Oct 2017 13:40:30 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:30 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+23 Oct 2017 13:40:30 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:30 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+23 Oct 2017 13:40:30 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:30 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+23 Oct 2017 13:40:30 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:30 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+23 Oct 2017 13:40:30 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:30 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+23 Oct 2017 13:40:30 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:30 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+23 Oct 2017 13:40:30 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:30 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+23 Oct 2017 13:40:30 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:30 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+23 Oct 2017 13:40:30 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:30 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+23 Oct 2017 13:40:30 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:30 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+23 Oct 2017 13:40:30 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:30 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+23 Oct 2017 13:40:30 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:30 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+23 Oct 2017 13:40:30 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:30 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+23 Oct 2017 13:40:30 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:30 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+23 Oct 2017 13:40:30 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:40:30 GMT: PathClassLoader.findClass(DeepStack) called
+23 Oct 2017 13:40:30 GMT: findResource(DeepStack.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:42:10 GMT: PathClassLoader.findClass(word) called
+23 Oct 2017 13:42:10 GMT: findResource(word.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:42:10 GMT: PathClassLoader.findClass(java.lang.word) called
+23 Oct 2017 13:42:10 GMT: findResource(java/lang/word.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:42:10 GMT: PathClassLoader.findClass(word) called
+23 Oct 2017 13:42:10 GMT: findResource(word.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:42:10 GMT: PathClassLoader.findClass(word) called
+23 Oct 2017 13:42:10 GMT: findResource(word.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:42:11 GMT: PathClassLoader.findClass(word) called
+23 Oct 2017 13:42:11 GMT: findResource(word.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:42:11 GMT: PathClassLoader.findClass(java.lang.word) called
+23 Oct 2017 13:42:11 GMT: findResource(java/lang/word.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:42:11 GMT: PathClassLoader.findClass(word) called
+23 Oct 2017 13:42:11 GMT: findResource(word.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:42:11 GMT: PathClassLoader.findClass(word) called
+23 Oct 2017 13:42:11 GMT: findResource(word.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:42:12 GMT: PathClassLoader.findClass(word) called
+23 Oct 2017 13:42:12 GMT: findResource(word.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:42:12 GMT: PathClassLoader.findClass(java.lang.word) called
+23 Oct 2017 13:42:12 GMT: findResource(java/lang/word.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:42:12 GMT: PathClassLoader.findClass(word) called
+23 Oct 2017 13:42:12 GMT: findResource(word.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:42:12 GMT: PathClassLoader.findClass(word) called
+23 Oct 2017 13:42:12 GMT: findResource(word.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:42:14 GMT: PathClassLoader.findClass(word) called
+23 Oct 2017 13:42:14 GMT: findResource(word.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:42:14 GMT: PathClassLoader.findClass(java.lang.word) called
+23 Oct 2017 13:42:14 GMT: findResource(java/lang/word.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:42:14 GMT: PathClassLoader.findClass(word) called
+23 Oct 2017 13:42:14 GMT: findResource(word.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:42:14 GMT: PathClassLoader.findClass(word) called
+23 Oct 2017 13:42:14 GMT: findResource(word.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:42:15 GMT: PathClassLoader.findClass(word) called
+23 Oct 2017 13:42:15 GMT: findResource(word.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:42:15 GMT: PathClassLoader.findClass(java.lang.word) called
+23 Oct 2017 13:42:15 GMT: findResource(java/lang/word.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:42:15 GMT: PathClassLoader.findClass(word) called
+23 Oct 2017 13:42:15 GMT: findResource(word.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:42:15 GMT: PathClassLoader.findClass(word) called
+23 Oct 2017 13:42:15 GMT: findResource(word.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:42:16 GMT: PathClassLoader.findClass(word) called
+23 Oct 2017 13:42:16 GMT: findResource(word.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:42:16 GMT: PathClassLoader.findClass(java.lang.word) called
+23 Oct 2017 13:42:16 GMT: findResource(java/lang/word.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:42:16 GMT: PathClassLoader.findClass(word) called
+23 Oct 2017 13:42:16 GMT: findResource(word.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:42:16 GMT: PathClassLoader.findClass(word) called
+23 Oct 2017 13:42:16 GMT: findResource(word.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:42:17 GMT: PathClassLoader.findClass(word) called
+23 Oct 2017 13:42:17 GMT: findResource(word.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:42:17 GMT: PathClassLoader.findClass(java.lang.word) called
+23 Oct 2017 13:42:17 GMT: findResource(java/lang/word.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:42:17 GMT: PathClassLoader.findClass(word) called
+23 Oct 2017 13:42:17 GMT: findResource(word.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:42:17 GMT: PathClassLoader.findClass(word) called
+23 Oct 2017 13:42:17 GMT: findResource(word.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:42:18 GMT: PathClassLoader.findClass(word) called
+23 Oct 2017 13:42:18 GMT: findResource(word.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:42:18 GMT: PathClassLoader.findClass(java.lang.word) called
+23 Oct 2017 13:42:18 GMT: findResource(java/lang/word.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:42:18 GMT: PathClassLoader.findClass(word) called
+23 Oct 2017 13:42:18 GMT: findResource(word.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:42:18 GMT: PathClassLoader.findClass(word) called
+23 Oct 2017 13:42:18 GMT: findResource(word.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:43:41 GMT: PathClassLoader.findClass(word) called
+23 Oct 2017 13:43:41 GMT: findResource(word.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:43:41 GMT: PathClassLoader.findClass(java.lang.word) called
+23 Oct 2017 13:43:41 GMT: findResource(java/lang/word.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:43:41 GMT: PathClassLoader.findClass(word) called
+23 Oct 2017 13:43:41 GMT: findResource(word.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]
+23 Oct 2017 13:43:41 GMT: PathClassLoader.findClass(word) called
+23 Oct 2017 13:43:41 GMT: findResource(word.class) called; _path is [, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/teaching/1103-F2017/lectures/08-static-methods-code, /home/kauffman/Dropbox/bin/drjava.jar]

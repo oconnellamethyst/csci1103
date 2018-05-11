@@ -1,0 +1,23 @@
+public class SampleMethods{
+  
+  public static void printCatchphrase(){
+    String msg = "Wubalubadubdub!!";
+    System.out.println(msg);
+    return;
+  }
+
+  public static int multiplyAdd(int a, int b, int c){
+    int mult = a * b;
+    int sum = mult + c;
+    return sum;
+  }
+
+  public static void main(String args[]){
+    int ans = multiplyAdd(3,4,5);
+    System.out.println(ans);
+    printCatchphrase();
+    int x=2, y=1, z=7;
+    int ans2 = multiplyAdd(x,y,z);
+    System.out.println(ans2);
+  }
+}

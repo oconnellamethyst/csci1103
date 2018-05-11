@@ -1,0 +1,26 @@
+ 1 public class CallStackDemo{
+ 2   
+ 3   public static int combine(int a, int b){
+ 4     int mult = a * b;
+ 5     int sum = mult + a+b;
+ 6     return sum;
+ 7   }
+ 8 
+ 9   public static String info(int x){
+10     String xInfo = "Number is "+x;
+11     return xInfo;
+12   }
+13 
+14   public static void main(String args[]){ 
+15     int x=2, y=1;
+16     int ans = combine(x,y);
+17 
+18     int a=6;
+19     ans = combine(a,a);
+20 
+21     String ansInfo = info(ansx);
+22     ansInfo = info( combine(5,ans) );
+23 
+24   }
+25 }
+

@@ -1,0 +1,34 @@
+public class OOOmelet{
+  public int eggs;
+  public int cheese;
+  public double cookedFor;
+  public String extras;
+  
+  public OOOmelet(int eggs, int cheese, String extras){
+    this.eggs = eggs;
+    this.cheese = cheese;
+    this.extras = extras;
+    this.cookedFor = 0.0;                               // 1
+  }
+  public OOOmelet(){
+    this.eggs = 3;
+    this.cheese = 4;
+    this.extras = "";
+    this.cookedFor = 0.0;
+  }
+
+
+  public void cookFor(double time){
+    this.cookedFor += time;                             // 2
+  }
+  public void addEgg(){
+    this.eggs++;                                        // 3
+  }
+
+  public int getCalories(){
+    int EGG_CALORIES = 94;
+    int CHEESE_OZ_CALORIES = 114;                       // 4
+    return this.eggs     * EGG_CALORIES +
+           this.cheese   * CHEESE_OZ_CALORIES;
+  }
+}

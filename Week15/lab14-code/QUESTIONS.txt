@@ -1,0 +1,190 @@
+                       _________________________
+
+                        LAB 14 REVIEW QUESTIONS
+                       _________________________
+
+
+- Name: (FILL THIS in)
+- NetID: (THE kauf0095 IN kauf0095@umn.edu)
+
+Answer the questions below according to the lab specification. Write
+your answers directly in this text file and submit it to complete Lab01.
+
+
+*Review Problem 1:* Column Sums
+===============================
+
+  Consider a set of files with integers in an arbitrary number of
+  columns such as the following files.
+
+  ,----
+  | cols-3.txt:
+  |  9  1 15
+  |  7 11  4
+  | 17  2 19
+  |  2 13  3
+  |  0 15 13
+  | 
+  | cols-5.txt:
+  |  3 11 16  8  0
+  | 18  2 12  1 18
+  | 18 17  5 18  0
+  | 12 13 10  7  0
+  | 13 19  8  3 17
+  |  4  4 16  9  9
+  |  2  6 11  0 11
+  | 
+  | cols-9.txt:
+  | 10  1  7 13 14  0  8  9  0
+  |  2  6 14  2 16 14  6 17 12
+  |  1 18 15  0  4 14  2  7 19
+  | 10 10  9 16 11 11 12  1 14
+  |  4  2  9  4 16 17  1 15  2
+  |  5 15  5 15  9 19 16 15  1
+  | 19  5 16  7  0 13  2 18 13
+  `----
+
+  In the file `SumCols.java', write a `main()' method which:
+  - Takes a command line argument naming a column file like those shown
+    to process
+  - Uses a Scanner to determine how many columns are in the first line
+  - Allocates an array with length equal to the number of columns
+  - Uses a Scanner to scan through the file and sums each column
+    individually
+  - Prints out the sums at the end of execution
+
+  Sample runs are below.
+  ,----
+  | > javac SumCols.java
+  | 
+  | > java SumCols cols-3.txt
+  | sums: 35 42 54 
+  | 
+  | > java SumCols cols-5.txt
+  | sums: 70 72 78 46 55 
+  | 
+  | > java SumCols cols-9.txt
+  | sums: 51 57 75 57 70 88 47 82 61
+  `----
+
+
+YOUR ANSWER HERE:
+-----------------
+
+
+*Review Problem 2:* Partial Votes
+=================================
+
+  In Project 5, rules for an instant run-off/ranked choice election are
+  implemented *assuming ranks of candidates are fully specified in
+  votes*.  Real elections often need more robust rules to accommodate
+  mistakes on ballots.
+
+  Consider a rule which requires *no repetition* of ranks and *no out of
+  bounds ranks*.  In this case, if a vote were cast like this:
+  ,----
+  | Francis Claire Heather Viktor
+  | 3       1      1       2
+  `----
+  The vote would be disqualified and not count at all as it is not
+  possible to determine the best choice due to the repetition of rank 1.
+  Similarly, votes like
+  ,----
+  | Francis Claire Heather Viktor
+  | 3       3      1       2
+  `----
+  would be disqualified due to the repetition of rank 3 though it might
+  be possible to infer some ranks.
+
+  Also disqualified would be votes which have out of bounds ranks
+  ,----
+  | Francis Claire Heather Viktor
+  | 3       5      1       7
+  `----
+
+  To facilitate this rule, write the following method which would likely
+  be in the Util class.
+  ,----
+  | public class Util{
+  |   public static boolean zeroToLen(int arr[]);
+  |   // Analyzes the array arr to determine if it contains all integers
+  |   // 
+  |   //   0, 1, 2, ... length-1
+  |   //
+  |   // in some order in the elements of the array. Return true if all
+  |   // numbers are present and false otherwise.  Useful for determining
+  |   // if Vote ranks are properly specified.
+  |   //
+  |   // Examples:
+  |   // > int a[] = {1, 2, 0, 4, 3};
+  |   // > Util.zeroToLen(a)
+  |   // true
+  |   // 
+  |   // > int a[] = {2, 1, 0, 3, 4};
+  |   // > Util.zeroToLen(a)
+  |   // true
+  |   // 
+  |   // > int a[] = {2, 1, 0, 2, 3};
+  |   // > Util.zeroToLen(a)
+  |   // false
+  |   // 
+  |   // > int a[] = {0, 0, 0, 2, 1};
+  |   // > Util.zeroToLen(a)
+  |   // false
+  |   // 
+  |   // > int a[] = {2, 1, 5, 3, 4};
+  |   // > Util.zeroToLen(a)
+  |   // false
+  |   // 
+  |   // > int a[] = {2, 1, 0};
+  |   // > Util.zeroToLen(a)
+  |   // true
+  |   // 
+  |   // > int a[] = {2, -1, 0};
+  |   // > Util.zeroToLen(a)
+  |   // true
+  | }
+  `----
+
+  There are two approaches to this problem
+  1. Allocate an array of booleans, scan through the given array and set
+     to `true' all elements that appear, then check if all booleans are
+     true.
+  2. Use nested loops to search the array repeatedly for each number in
+     the required sequence 0, 1, 2, ... length-1.
+
+
+YOUR ANSWER HERE:
+-----------------
+
+
+*Review Problem 3:* Fibonacci Tree
+==================================
+
+  Draw a tree that represents ALL of the invocations of the below
+  `fibRec()' function if called as
+  ,----
+  | int f7 = fibRec(7);
+  `----
+  Describe the maximum depth of the stack based on this call and how
+  many "steps" it will take to complete the initial call.
+
+  ,----
+  |   public static int fibRec(int i){
+  |     if(i == 0){        // base case 1
+  |       return 0;
+  |     }
+  |     if(i == 1){        // base case 2
+  |       return 1;
+  |     }
+  |     // recursive case
+  |     int fibPrev1 = fibRec(i-1); 
+  |     int fibPrev2 = fibRec(i-2);
+  |     int fibI = fibPrev1 + fibPrev2;
+  |     return fibI;
+  |   }
+  `----
+
+
+YOUR ANSWER HERE:
+-----------------

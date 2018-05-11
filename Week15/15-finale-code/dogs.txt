@@ -1,0 +1,7 @@
+Val        6    yes
+Stout      3    no
+Ein        4    yes
+Kudjo      9    no
+Balto      7    yes
+Amaterasu  100  yes
+Bo         9    no
