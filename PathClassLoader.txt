@@ -1,0 +1,4 @@
+17 May 2018 2:26:42 GMT: Log 'PathClassLoader.txt' opened: 17 May 2018 2:26:42 GMT with name /home/amethyst/KauffmanUofM/csci1103/PathClassLoader.txt
+17 May 2018 2:26:42 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/home/amethyst/drjava-gmu.jar]'
+17 May 2018 2:26:42 GMT: Log 'PathClassLoader.txt' opened: 17 May 2018 2:26:42 GMT with name /home/amethyst/KauffmanUofM/csci1103/PathClassLoader.txt
+17 May 2018 2:26:42 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/home/amethyst/drjava-gmu.jar]'
