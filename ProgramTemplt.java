@@ -1,15 +1,15 @@
 public class ProgramTemplt {
 
-    optional-variable-declarations-and-subroutines
+    // optional-variable-declarations-and-subroutines
       
     /** A program to display the message
       *  "Hello World!" on standard output.
       */
     
     public static void main(String[] args) {
-       statements
+       // statements like System.out.println()
     }
     
-    optional-variable-declarations-and-subroutines
+    // optional-variable-declarations-and-subroutines
 
 }
