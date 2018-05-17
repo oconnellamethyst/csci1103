@@ -1,0 +1,17 @@
+public class Equation {
+      
+    /** A program that computes
+      *  25 * e^(2 * 1.7)
+      */
+    
+    public static void main(String[] args) {
+       double q = 25.0;
+       double e = 2.718;
+       double r = 2.0;
+       double t = 1.7;
+       double p = q * Math.pow( e , r * t );
+       System.out.println("25 * e^(2 * 1.7) is " + p );
+       
+    }
+
+}
