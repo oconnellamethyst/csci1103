@@ -1,4 +1,4 @@
-## Week 1 Notes
+# Week 1 Notes
 [Ch 1](http://math.hws.edu/javanotes/c1/index.html)
 
 CPU = Boxes in memory  
