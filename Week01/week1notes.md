@@ -60,13 +60,13 @@ Java code files have a .java extension. Compiled Java files have a .class extens
 Also Object-Oriented Code! Basically, you know how in Python, with top-down design, it's hard to reuse code (I'll take your word on that textbook because I reuse code quite a bit), well with Object-Oriented Code, your code stuffs are objects, like a toaster. What goes on inside a toaster, who knows, but you send messages to your toaster (the bread), whenever you want, and it responds in a predictable way (with toast, hopefully, though more realistically char), so it's super reusable (toasters everywhere!)
 
 To compile the program on the command line:
-```
+```bash
 cd whereeveryouputyourjavacodestuffs/
 javac WhateverYouNamedYourCode.java
 ```
 
 To run the program on the command line:
-```
+```bash
 java WhateverYouNamedYourCode
 ```
 
