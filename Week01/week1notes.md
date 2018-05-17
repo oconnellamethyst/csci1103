@@ -1,9 +1,9 @@
 ## Week 1 Notes
 [Ch 1](http://math.hws.edu/javanotes/c1/index.html)
 
-CPU = Boxes in memory
-Variables, ways to refer to memory boxes, (remember CSCI 1410)
-Memory box diagrams are important!
+CPU = Boxes in memory  
+Variables, ways to refer to memory boxes, (remember CSCI 1410)  
+Memory box diagrams are important!  
 
 ## Java Equivalents
 Java's Version of Print
@@ -36,7 +36,7 @@ spans
 multiple
 lines */
 ```
-Java's version of naming convention
+Java's version of naming convention  
 Letters numbers and underscores okay, spaces... no.
 ```java
 forVariablesWeUseCamelCase
@@ -90,7 +90,7 @@ print "second",#1028
 2. Box numbers like #1024 do not change, but their contents do
 3. Boxes with names are variables
 4. Java is a high-ish level programming language for computers
-5. For a named box in Java, one declares a variable like so ```java int variable;```
+5. For a named box in Java, one declares a variable like so ```int variable;```
 
 ## Swapping boxes in Java
 ```java
