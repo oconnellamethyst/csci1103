@@ -213,3 +213,5 @@
 17 May 2018 15:57:58 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week02/lab01-code, /home/amethyst/KauffmanUofM/csci1103/Week02/lab01-code, /home/amethyst/drjava-gmu.jar]
 17 May 2018 15:57:58 GMT: PathClassLoader.findClass(bender) called
 17 May 2018 15:57:58 GMT: findResource(bender.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week02/lab01-code, /home/amethyst/KauffmanUofM/csci1103/Week02/lab01-code, /home/amethyst/drjava-gmu.jar]
+19 May 2018 21:55:34 GMT: Log 'PathClassLoader.txt' opened: 19 May 2018 21:55:34 GMT with name /home/amethyst/KauffmanUofM/csci1103/Week02/lab01-code/PathClassLoader.txt
+19 May 2018 21:55:34 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/home/amethyst/drjava-gmu.jar]'

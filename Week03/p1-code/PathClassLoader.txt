@@ -1,0 +1,927 @@
+20 May 2018 1:29:49 GMT: Log 'PathClassLoader.txt' opened: 20 May 2018 1:29:49 GMT with name /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code/PathClassLoader.txt
+20 May 2018 1:29:49 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/home/amethyst/drjava-gmu.jar]'
+20 May 2018 1:30:03 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 1:30:03 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:30:03 GMT: PathClassLoader.findClass(java.lang.edu) called
+20 May 2018 1:30:03 GMT: findResource(java/lang/edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:30:03 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 1:30:03 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:30:03 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 1:30:03 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:30:03 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 1:30:03 GMT: findResource(edu/rice.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:30:03 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 1:30:03 GMT: findResource(edu/rice.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:30:03 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 1:30:03 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:30:03 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 1:30:03 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:30:03 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 1:30:03 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:30:03 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 1:30:03 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:30:03 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 1:30:03 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:30:03 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 1:30:03 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:30:03 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 1:30:03 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:30:03 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 1:30:03 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:30:03 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 1:30:03 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:30:03 GMT: PathClassLoader.findClass(java.lang.edu) called
+20 May 2018 1:30:03 GMT: findResource(java/lang/edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:30:03 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 1:30:03 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:30:03 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 1:30:03 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:30:03 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 1:30:03 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:30:03 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 1:30:03 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:30:03 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 1:30:03 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:30:03 GMT: PathClassLoader.findClass(java.lang.edu) called
+20 May 2018 1:30:03 GMT: findResource(java/lang/edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:30:03 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 1:30:03 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:30:03 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 1:30:03 GMT: findResource(edu/rice.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:30:03 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 1:30:03 GMT: findResource(edu/rice.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:30:03 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 1:30:03 GMT: findResource(edu/rice.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:30:03 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 1:30:03 GMT: findResource(edu/rice.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:30:03 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 1:30:03 GMT: findResource(edu/rice.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:30:03 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 1:30:03 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:30:03 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 1:30:03 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:30:03 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 1:30:03 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:30:03 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 1:30:03 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:30:03 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 1:30:03 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:30:03 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 1:30:03 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:30:03 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 1:30:03 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:30:03 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 1:30:03 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:30:03 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 1:30:03 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:30:03 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 1:30:03 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:30:03 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 1:30:03 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:30:03 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 1:30:03 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:30:03 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 1:30:03 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:30:03 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 1:30:03 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:30:03 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 1:30:03 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:30:03 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 1:30:03 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:30:03 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 1:30:03 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:30:03 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 1:30:03 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:30:03 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 1:30:03 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:30:03 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 1:30:03 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:30:03 GMT: PathClassLoader.findClass(LoanCalc) called
+20 May 2018 1:30:03 GMT: findResource(LoanCalc.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:30:03 GMT: PathClassLoader.findClass(TextIO) called
+20 May 2018 1:30:03 GMT: findResource(TextIO.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:32:36 GMT: Log 'PathClassLoader.txt' opened: 20 May 2018 1:32:36 GMT with name /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code/PathClassLoader.txt
+20 May 2018 1:32:36 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/home/amethyst/drjava-gmu.jar]'
+20 May 2018 1:32:37 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 1:32:37 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:32:37 GMT: PathClassLoader.findClass(java.lang.edu) called
+20 May 2018 1:32:37 GMT: findResource(java/lang/edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:32:37 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 1:32:37 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:32:37 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 1:32:37 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:32:37 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 1:32:37 GMT: findResource(edu/rice.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:32:37 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 1:32:37 GMT: findResource(edu/rice.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:32:37 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 1:32:37 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:32:37 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 1:32:37 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:32:37 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 1:32:37 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:32:37 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 1:32:37 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:32:37 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 1:32:37 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:32:37 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 1:32:37 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:32:37 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 1:32:37 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:32:37 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 1:32:37 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:32:37 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 1:32:37 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:32:37 GMT: PathClassLoader.findClass(java.lang.edu) called
+20 May 2018 1:32:37 GMT: findResource(java/lang/edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:32:37 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 1:32:37 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:32:37 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 1:32:37 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:32:37 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 1:32:37 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:32:37 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 1:32:37 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:32:37 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 1:32:37 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:32:37 GMT: PathClassLoader.findClass(java.lang.edu) called
+20 May 2018 1:32:37 GMT: findResource(java/lang/edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:32:37 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 1:32:37 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:32:37 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 1:32:37 GMT: findResource(edu/rice.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:32:37 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 1:32:37 GMT: findResource(edu/rice.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:32:37 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 1:32:37 GMT: findResource(edu/rice.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:32:37 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 1:32:37 GMT: findResource(edu/rice.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:32:37 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 1:32:37 GMT: findResource(edu/rice.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:32:37 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 1:32:37 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:32:37 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 1:32:37 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:32:37 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 1:32:37 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:32:37 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 1:32:37 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:32:37 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 1:32:37 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:32:37 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 1:32:37 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:32:37 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 1:32:37 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:32:37 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 1:32:37 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:32:37 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 1:32:37 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:32:37 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 1:32:37 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:32:37 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 1:32:37 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:32:37 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 1:32:37 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:32:37 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 1:32:37 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:32:37 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 1:32:37 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:32:37 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 1:32:37 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:32:37 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 1:32:37 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:32:37 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 1:32:37 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:32:37 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 1:32:37 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:32:37 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 1:32:37 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:32:37 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 1:32:37 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:32:37 GMT: PathClassLoader.findClass(LoanCalc) called
+20 May 2018 1:32:37 GMT: findResource(LoanCalc.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:32:37 GMT: PathClassLoader.findClass(TextIO) called
+20 May 2018 1:32:37 GMT: findResource(TextIO.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:33:34 GMT: Log 'PathClassLoader.txt' opened: 20 May 2018 1:33:34 GMT with name /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code/PathClassLoader.txt
+20 May 2018 1:33:34 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/home/amethyst/drjava-gmu.jar]'
+20 May 2018 1:33:36 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 1:33:36 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:33:36 GMT: PathClassLoader.findClass(java.lang.edu) called
+20 May 2018 1:33:36 GMT: findResource(java/lang/edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:33:36 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 1:33:36 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:33:36 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 1:33:36 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:33:36 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 1:33:36 GMT: findResource(edu/rice.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:33:36 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 1:33:36 GMT: findResource(edu/rice.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:33:36 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 1:33:36 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:33:36 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 1:33:36 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:33:36 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 1:33:36 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:33:36 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 1:33:36 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:33:36 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 1:33:36 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:33:36 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 1:33:36 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:33:36 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 1:33:36 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:33:36 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 1:33:36 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:33:36 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 1:33:36 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:33:36 GMT: PathClassLoader.findClass(java.lang.edu) called
+20 May 2018 1:33:36 GMT: findResource(java/lang/edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:33:36 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 1:33:36 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:33:36 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 1:33:36 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:33:36 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 1:33:36 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:33:36 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 1:33:36 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:33:36 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 1:33:36 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:33:36 GMT: PathClassLoader.findClass(java.lang.edu) called
+20 May 2018 1:33:36 GMT: findResource(java/lang/edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:33:36 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 1:33:36 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:33:36 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 1:33:36 GMT: findResource(edu/rice.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:33:36 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 1:33:36 GMT: findResource(edu/rice.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:33:36 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 1:33:36 GMT: findResource(edu/rice.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:33:36 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 1:33:36 GMT: findResource(edu/rice.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:33:36 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 1:33:36 GMT: findResource(edu/rice.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:33:36 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 1:33:36 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:33:36 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 1:33:36 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:33:36 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 1:33:36 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:33:36 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 1:33:36 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:33:36 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 1:33:36 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:33:36 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 1:33:36 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:33:36 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 1:33:36 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:33:36 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 1:33:36 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:33:36 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 1:33:36 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:33:36 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 1:33:36 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:33:36 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 1:33:36 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:33:36 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 1:33:36 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:33:36 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 1:33:36 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:33:36 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 1:33:36 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:33:36 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 1:33:36 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:33:36 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 1:33:36 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:33:36 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 1:33:36 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:33:36 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 1:33:36 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:33:36 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 1:33:36 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:33:36 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 1:33:36 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:33:36 GMT: PathClassLoader.findClass(LoanCalc) called
+20 May 2018 1:33:36 GMT: findResource(LoanCalc.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:33:36 GMT: PathClassLoader.findClass(TextIO) called
+20 May 2018 1:33:36 GMT: findResource(TextIO.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:37:30 GMT: Log 'PathClassLoader.txt' opened: 20 May 2018 1:37:30 GMT with name /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code/PathClassLoader.txt
+20 May 2018 1:37:30 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/home/amethyst/drjava-gmu.jar]'
+20 May 2018 1:37:31 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 1:37:31 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:37:31 GMT: PathClassLoader.findClass(java.lang.edu) called
+20 May 2018 1:37:31 GMT: findResource(java/lang/edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:37:31 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 1:37:31 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:37:31 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 1:37:31 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:37:31 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 1:37:31 GMT: findResource(edu/rice.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:37:31 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 1:37:31 GMT: findResource(edu/rice.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:37:31 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 1:37:31 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:37:31 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 1:37:31 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:37:31 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 1:37:31 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:37:31 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 1:37:31 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:37:31 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 1:37:31 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:37:31 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 1:37:31 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:37:31 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 1:37:31 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:37:31 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 1:37:31 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:37:31 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 1:37:31 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:37:31 GMT: PathClassLoader.findClass(java.lang.edu) called
+20 May 2018 1:37:31 GMT: findResource(java/lang/edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:37:31 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 1:37:31 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:37:31 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 1:37:31 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:37:31 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 1:37:31 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:37:31 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 1:37:31 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:37:31 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 1:37:31 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:37:31 GMT: PathClassLoader.findClass(java.lang.edu) called
+20 May 2018 1:37:31 GMT: findResource(java/lang/edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:37:31 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 1:37:31 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:37:31 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 1:37:31 GMT: findResource(edu/rice.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:37:31 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 1:37:31 GMT: findResource(edu/rice.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:37:31 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 1:37:31 GMT: findResource(edu/rice.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:37:31 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 1:37:31 GMT: findResource(edu/rice.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:37:31 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 1:37:31 GMT: findResource(edu/rice.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:37:31 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 1:37:31 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:37:31 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 1:37:31 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:37:31 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 1:37:31 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:37:31 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 1:37:31 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:37:31 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 1:37:31 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:37:31 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 1:37:31 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:37:31 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 1:37:31 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:37:31 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 1:37:31 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:37:31 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 1:37:31 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:37:31 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 1:37:31 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:37:31 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 1:37:31 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:37:31 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 1:37:31 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:37:31 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 1:37:31 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:37:31 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 1:37:31 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:37:31 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 1:37:31 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:37:31 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 1:37:31 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:37:31 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 1:37:31 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:37:31 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 1:37:31 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:37:31 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 1:37:31 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:37:31 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 1:37:31 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:37:31 GMT: PathClassLoader.findClass(LoanCalc) called
+20 May 2018 1:37:31 GMT: findResource(LoanCalc.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:37:31 GMT: PathClassLoader.findClass(TextIO) called
+20 May 2018 1:37:31 GMT: findResource(TextIO.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:39:15 GMT: Log 'PathClassLoader.txt' opened: 20 May 2018 1:39:15 GMT with name /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code/PathClassLoader.txt
+20 May 2018 1:39:15 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/home/amethyst/drjava-gmu.jar]'
+20 May 2018 1:39:16 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 1:39:16 GMT: findResource(edu.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:39:16 GMT: PathClassLoader.findClass(java.lang.edu) called
+20 May 2018 1:39:16 GMT: findResource(java/lang/edu.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:39:16 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 1:39:16 GMT: findResource(edu.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:39:16 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 1:39:16 GMT: findResource(edu.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:39:16 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 1:39:16 GMT: findResource(edu/rice.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:39:16 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 1:39:16 GMT: findResource(edu/rice.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:39:16 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 1:39:16 GMT: findResource(edu/rice/cs.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:39:16 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 1:39:16 GMT: findResource(edu/rice/cs.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:39:16 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 1:39:16 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:39:16 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 1:39:16 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:39:16 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 1:39:16 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:39:16 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 1:39:16 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:39:16 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 1:39:16 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:39:16 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 1:39:16 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:39:16 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 1:39:16 GMT: findResource(edu.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:39:16 GMT: PathClassLoader.findClass(java.lang.edu) called
+20 May 2018 1:39:16 GMT: findResource(java/lang/edu.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:39:16 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 1:39:16 GMT: findResource(edu.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:39:16 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 1:39:16 GMT: findResource(edu.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:39:16 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 1:39:16 GMT: findResource(edu.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:39:16 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 1:39:16 GMT: findResource(edu.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:39:16 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 1:39:16 GMT: findResource(edu.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:39:16 GMT: PathClassLoader.findClass(java.lang.edu) called
+20 May 2018 1:39:16 GMT: findResource(java/lang/edu.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:39:16 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 1:39:16 GMT: findResource(edu.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:39:16 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 1:39:16 GMT: findResource(edu/rice.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:39:16 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 1:39:16 GMT: findResource(edu/rice.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:39:16 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 1:39:16 GMT: findResource(edu/rice.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:39:16 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 1:39:16 GMT: findResource(edu/rice.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:39:16 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 1:39:16 GMT: findResource(edu/rice.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:39:16 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 1:39:16 GMT: findResource(edu/rice/cs.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:39:16 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 1:39:16 GMT: findResource(edu/rice/cs.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:39:16 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 1:39:16 GMT: findResource(edu/rice/cs.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:39:16 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 1:39:16 GMT: findResource(edu/rice/cs.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:39:16 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 1:39:16 GMT: findResource(edu/rice/cs.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:39:16 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 1:39:16 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:39:16 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 1:39:16 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:39:16 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 1:39:16 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:39:16 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 1:39:16 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:39:16 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 1:39:16 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:39:16 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 1:39:16 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:39:16 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 1:39:16 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:39:16 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 1:39:16 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:39:16 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 1:39:16 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:39:16 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 1:39:16 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:39:16 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 1:39:16 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:39:16 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 1:39:16 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:39:16 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 1:39:16 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:39:16 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 1:39:16 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:39:16 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 1:39:16 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:39:16 GMT: PathClassLoader.findClass(LoanCalc) called
+20 May 2018 1:39:16 GMT: findResource(LoanCalc.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 1:39:16 GMT: PathClassLoader.findClass(TextIO) called
+20 May 2018 1:39:16 GMT: findResource(TextIO.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:19:55 GMT: Log 'PathClassLoader.txt' opened: 20 May 2018 5:19:55 GMT with name /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code/PathClassLoader.txt
+20 May 2018 5:19:55 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/home/amethyst/drjava-gmu.jar]'
+20 May 2018 5:19:57 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 5:19:57 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:19:57 GMT: PathClassLoader.findClass(java.lang.edu) called
+20 May 2018 5:19:57 GMT: findResource(java/lang/edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:19:57 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 5:19:57 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:19:57 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 5:19:57 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:19:57 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 5:19:57 GMT: findResource(edu/rice.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:19:57 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 5:19:57 GMT: findResource(edu/rice.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:19:57 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 5:19:57 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:19:57 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 5:19:57 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:19:57 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 5:19:57 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:19:57 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 5:19:57 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:19:57 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 5:19:57 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:19:57 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 5:19:57 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:19:57 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 5:19:57 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:19:57 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 5:19:57 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:19:57 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 5:19:57 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:19:57 GMT: PathClassLoader.findClass(java.lang.edu) called
+20 May 2018 5:19:57 GMT: findResource(java/lang/edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:19:57 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 5:19:57 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:19:57 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 5:19:57 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:19:57 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 5:19:57 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:19:57 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 5:19:57 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:19:57 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 5:19:57 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:19:57 GMT: PathClassLoader.findClass(java.lang.edu) called
+20 May 2018 5:19:57 GMT: findResource(java/lang/edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:19:57 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 5:19:57 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:19:57 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 5:19:57 GMT: findResource(edu/rice.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:19:57 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 5:19:57 GMT: findResource(edu/rice.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:19:57 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 5:19:57 GMT: findResource(edu/rice.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:19:57 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 5:19:57 GMT: findResource(edu/rice.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:19:57 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 5:19:57 GMT: findResource(edu/rice.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:19:57 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 5:19:57 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:19:57 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 5:19:57 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:19:57 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 5:19:57 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:19:57 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 5:19:57 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:19:57 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 5:19:57 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:19:57 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 5:19:57 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:19:57 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 5:19:57 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:19:57 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 5:19:57 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:19:57 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 5:19:57 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:19:57 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 5:19:57 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:19:57 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 5:19:57 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:19:57 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 5:19:57 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:19:57 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 5:19:57 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:19:57 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 5:19:57 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:19:57 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 5:19:57 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:19:57 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 5:19:57 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:19:57 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 5:19:57 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:19:57 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 5:19:57 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:19:57 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 5:19:57 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:19:57 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 5:19:57 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:19:57 GMT: PathClassLoader.findClass(LoanCalc) called
+20 May 2018 5:19:57 GMT: findResource(LoanCalc.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:19:57 GMT: PathClassLoader.findClass(TextIO) called
+20 May 2018 5:19:57 GMT: findResource(TextIO.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:15 GMT: Log 'PathClassLoader.txt' opened: 20 May 2018 5:21:15 GMT with name /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code/PathClassLoader.txt
+20 May 2018 5:21:15 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/home/amethyst/drjava-gmu.jar]'
+20 May 2018 5:21:16 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 5:21:16 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:16 GMT: PathClassLoader.findClass(java.lang.edu) called
+20 May 2018 5:21:16 GMT: findResource(java/lang/edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:16 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 5:21:16 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:16 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 5:21:16 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:16 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 5:21:16 GMT: findResource(edu/rice.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:16 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 5:21:16 GMT: findResource(edu/rice.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:16 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 5:21:16 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:16 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 5:21:16 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:16 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 5:21:16 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:16 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 5:21:16 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:16 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 5:21:16 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:16 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 5:21:16 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:16 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 5:21:16 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:16 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 5:21:16 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:16 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 5:21:16 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:16 GMT: PathClassLoader.findClass(java.lang.edu) called
+20 May 2018 5:21:16 GMT: findResource(java/lang/edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:16 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 5:21:16 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:16 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 5:21:16 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:16 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 5:21:16 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:16 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 5:21:16 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:16 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 5:21:16 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:16 GMT: PathClassLoader.findClass(java.lang.edu) called
+20 May 2018 5:21:16 GMT: findResource(java/lang/edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:16 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 5:21:16 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:16 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 5:21:16 GMT: findResource(edu/rice.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:16 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 5:21:16 GMT: findResource(edu/rice.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:16 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 5:21:16 GMT: findResource(edu/rice.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:16 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 5:21:16 GMT: findResource(edu/rice.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:16 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 5:21:16 GMT: findResource(edu/rice.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:16 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 5:21:16 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:16 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 5:21:16 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:16 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 5:21:16 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:16 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 5:21:16 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:16 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 5:21:16 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:16 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 5:21:16 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:16 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 5:21:16 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:16 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 5:21:16 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:16 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 5:21:16 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:16 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 5:21:16 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:16 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 5:21:16 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:16 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 5:21:16 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:16 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 5:21:16 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:16 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 5:21:16 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:16 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 5:21:16 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:16 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 5:21:16 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:16 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 5:21:16 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:16 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 5:21:16 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:16 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 5:21:16 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:16 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 5:21:16 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:16 GMT: PathClassLoader.findClass(LoanCalc) called
+20 May 2018 5:21:16 GMT: findResource(LoanCalc.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:16 GMT: PathClassLoader.findClass(TextIO) called
+20 May 2018 5:21:16 GMT: findResource(TextIO.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:41 GMT: Log 'PathClassLoader.txt' opened: 20 May 2018 5:21:41 GMT with name /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code/PathClassLoader.txt
+20 May 2018 5:21:41 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/home/amethyst/drjava-gmu.jar]'
+20 May 2018 5:21:43 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 5:21:43 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:43 GMT: PathClassLoader.findClass(java.lang.edu) called
+20 May 2018 5:21:43 GMT: findResource(java/lang/edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:43 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 5:21:43 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:43 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 5:21:43 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:43 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 5:21:43 GMT: findResource(edu/rice.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:43 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 5:21:43 GMT: findResource(edu/rice.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:43 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 5:21:43 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:43 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 5:21:43 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:43 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 5:21:43 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:43 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 5:21:43 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:43 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 5:21:43 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:43 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 5:21:43 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:43 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 5:21:43 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:43 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 5:21:43 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:43 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 5:21:43 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:43 GMT: PathClassLoader.findClass(java.lang.edu) called
+20 May 2018 5:21:43 GMT: findResource(java/lang/edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:43 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 5:21:43 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:43 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 5:21:43 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:43 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 5:21:43 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:43 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 5:21:43 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:43 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 5:21:43 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:43 GMT: PathClassLoader.findClass(java.lang.edu) called
+20 May 2018 5:21:43 GMT: findResource(java/lang/edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:43 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 5:21:43 GMT: findResource(edu.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:43 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 5:21:43 GMT: findResource(edu/rice.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:43 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 5:21:43 GMT: findResource(edu/rice.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:43 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 5:21:43 GMT: findResource(edu/rice.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:43 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 5:21:43 GMT: findResource(edu/rice.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:43 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 5:21:43 GMT: findResource(edu/rice.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:43 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 5:21:43 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:43 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 5:21:43 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:43 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 5:21:43 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:43 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 5:21:43 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:43 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 5:21:43 GMT: findResource(edu/rice/cs.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:43 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 5:21:43 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:43 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 5:21:43 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:43 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 5:21:43 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:43 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 5:21:43 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:43 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 5:21:43 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:43 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 5:21:43 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:43 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 5:21:43 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:43 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 5:21:43 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:43 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 5:21:43 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:43 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 5:21:43 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:43 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 5:21:43 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:43 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 5:21:43 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:43 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 5:21:43 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:43 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 5:21:43 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:43 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 5:21:43 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:43 GMT: PathClassLoader.findClass(LoanCalc) called
+20 May 2018 5:21:43 GMT: findResource(LoanCalc.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:21:43 GMT: PathClassLoader.findClass(TextIO) called
+20 May 2018 5:21:43 GMT: findResource(TextIO.class) called; _path is [, , /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:24:40 GMT: Log 'PathClassLoader.txt' opened: 20 May 2018 5:24:40 GMT with name /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code/PathClassLoader.txt
+20 May 2018 5:24:40 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/home/amethyst/drjava-gmu.jar]'
+20 May 2018 5:24:41 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 5:24:41 GMT: findResource(edu.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:24:41 GMT: PathClassLoader.findClass(java.lang.edu) called
+20 May 2018 5:24:41 GMT: findResource(java/lang/edu.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:24:41 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 5:24:41 GMT: findResource(edu.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:24:41 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 5:24:41 GMT: findResource(edu.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:24:41 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 5:24:41 GMT: findResource(edu/rice.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:24:41 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 5:24:41 GMT: findResource(edu/rice.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:24:41 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 5:24:41 GMT: findResource(edu/rice/cs.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:24:41 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 5:24:41 GMT: findResource(edu/rice/cs.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:24:41 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 5:24:41 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:24:41 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 5:24:41 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:24:41 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 5:24:41 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:24:41 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 5:24:41 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:24:41 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 5:24:41 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:24:41 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 5:24:41 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:24:41 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 5:24:41 GMT: findResource(edu.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:24:41 GMT: PathClassLoader.findClass(java.lang.edu) called
+20 May 2018 5:24:41 GMT: findResource(java/lang/edu.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:24:41 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 5:24:41 GMT: findResource(edu.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:24:41 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 5:24:41 GMT: findResource(edu.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:24:41 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 5:24:41 GMT: findResource(edu.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:24:41 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 5:24:41 GMT: findResource(edu.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:24:41 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 5:24:41 GMT: findResource(edu.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:24:41 GMT: PathClassLoader.findClass(java.lang.edu) called
+20 May 2018 5:24:41 GMT: findResource(java/lang/edu.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:24:41 GMT: PathClassLoader.findClass(edu) called
+20 May 2018 5:24:41 GMT: findResource(edu.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:24:41 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 5:24:41 GMT: findResource(edu/rice.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:24:41 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 5:24:41 GMT: findResource(edu/rice.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:24:41 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 5:24:41 GMT: findResource(edu/rice.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:24:41 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 5:24:41 GMT: findResource(edu/rice.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:24:41 GMT: PathClassLoader.findClass(edu.rice) called
+20 May 2018 5:24:41 GMT: findResource(edu/rice.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:24:41 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 5:24:41 GMT: findResource(edu/rice/cs.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:24:41 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 5:24:41 GMT: findResource(edu/rice/cs.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:24:41 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 5:24:41 GMT: findResource(edu/rice/cs.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:24:41 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 5:24:41 GMT: findResource(edu/rice/cs.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:24:41 GMT: PathClassLoader.findClass(edu.rice.cs) called
+20 May 2018 5:24:41 GMT: findResource(edu/rice/cs.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:24:41 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 5:24:41 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:24:41 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 5:24:41 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:24:41 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 5:24:41 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:24:41 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 5:24:41 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:24:41 GMT: PathClassLoader.findClass(edu.rice.cs.drjava) called
+20 May 2018 5:24:41 GMT: findResource(edu/rice/cs/drjava.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:24:41 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 5:24:41 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:24:41 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 5:24:41 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:24:41 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 5:24:41 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:24:41 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 5:24:41 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:24:41 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model) called
+20 May 2018 5:24:41 GMT: findResource(edu/rice/cs/drjava/model.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:24:41 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 5:24:41 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:24:41 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 5:24:41 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:24:41 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 5:24:41 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:24:41 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 5:24:41 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:24:41 GMT: PathClassLoader.findClass(edu.rice.cs.drjava.model.compiler) called
+20 May 2018 5:24:41 GMT: findResource(edu/rice/cs/drjava/model/compiler.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:24:41 GMT: PathClassLoader.findClass(LoanCalc) called
+20 May 2018 5:24:41 GMT: findResource(LoanCalc.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:24:41 GMT: PathClassLoader.findClass(TextIO) called
+20 May 2018 5:24:41 GMT: findResource(TextIO.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:25:53 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]'
+20 May 2018 5:25:53 GMT: PathClassLoader.findClass(LoanCalcTests) called
+20 May 2018 5:25:53 GMT: findResource(LoanCalcTests.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:25:53 GMT: PathClassLoader.findClass(P1Tests) called
+20 May 2018 5:25:53 GMT: findResource(P1Tests.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:25:53 GMT: PathClassLoader.findClass(LoanCalc) called
+20 May 2018 5:25:53 GMT: findResource(LoanCalc.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
+20 May 2018 5:25:53 GMT: PathClassLoader.findClass(TextIO) called
+20 May 2018 5:25:53 GMT: findResource(TextIO.class) called; _path is [, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/KauffmanUofM/csci1103/Week03/p1-code, /home/amethyst/drjava-gmu.jar]
